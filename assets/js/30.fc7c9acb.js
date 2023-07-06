@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[30],{365:function(t,n,s){"use strict";s.r(n);var e=s(7),o=Object(e.a)({},(function(){var t=this._self._c;return t("ContentSlotsDistributor",{attrs:{"slot-key":this.$parent.slotKey}},[t("p",[this._v("标签定义图形，比如图表和其他图像。该标签基于 JavaScript 的绘图 API。")])])}),[],!1,null,null,null);n.default=o.exports}}]);
